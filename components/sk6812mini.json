@@ -1,0 +1,71 @@
+{
+  "info": {
+    "description": "Addressable RGB LED (NeoPixel Mini 3535)",
+    "manufacturer": "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD",
+    "part-number": "SK6812MINI",
+    "suppliers": {
+      "adafruit": "2659",
+      "digikey": "1528-1542-ND"
+    }
+  },
+  "pins": {
+    "1": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -1.75,
+          0.875
+        ],
+        "label": "DOUT"
+      }
+    },
+    "2": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -1.75,
+          -0.875
+        ],
+        "label": "VSS"
+      }
+    },
+    "3": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          1.75,
+          -0.875
+        ],
+        "label": "DIN"
+      }
+    },
+    "4": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          1.75,
+          0.875
+        ],
+        "label": "VDD"
+      }
+    }
+  },
+  "pads": {
+    "pad": {
+      "shapes": [
+        {
+          "type": "rect",
+          "layers": [
+            "top"
+          ],
+          "width": 1,
+          "height": 0.85,
+          "offset": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}

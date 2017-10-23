@@ -1,0 +1,527 @@
+{
+  "components": {
+    "C1": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        12, 
+        -48.1
+      ], 
+      "rotate": 80, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        0.5, 
+        -53.5
+      ], 
+      "rotate": -10, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        22.8, 
+        14.8
+      ], 
+      "rotate": 110, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C4": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        16.4, 
+        37.6
+      ], 
+      "rotate": 20, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        6.7, 
+        5
+      ], 
+      "rotate": -160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C6": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        -1, 
+        37.8
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C7": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        -4.9, 
+        5.2
+      ], 
+      "rotate": 160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C8": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        -18, 
+        37
+      ], 
+      "rotate": -20, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C9": {
+      "footprint": "capacitor", 
+      "layer": "top", 
+      "location": [
+        -22, 
+        11.5
+      ], 
+      "rotate": -110, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J1": {
+      "footprint": "jst-ph", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        -25
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U1": {
+      "footprint": "attiny85-20su", 
+      "layer": "top", 
+      "location": [
+        7.5, 
+        -50
+      ], 
+      "rotate": -10, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U2": {
+      "footprint": "tsl237t", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -51
+      ], 
+      "rotate": -10, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U3": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        20, 
+        14.7
+      ], 
+      "rotate": 110, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U4": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        16.4, 
+        34.7
+      ], 
+      "rotate": 20, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U5": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        6.7, 
+        7.6
+      ], 
+      "rotate": -160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U6": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        0, 
+        35
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U7": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        -6.7, 
+        7.5
+      ], 
+      "rotate": 160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U8": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        -16, 
+        34.7
+      ], 
+      "rotate": -20, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U9": {
+      "footprint": "sk6812mini", 
+      "layer": "top", 
+      "location": [
+        -19.5, 
+        13.3
+      ], 
+      "rotate": -110, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "bulb", 
+    "no-docs": true, 
+    "no-drill-index": true, 
+    "no-flashes": false, 
+    "no-layer-index": true, 
+    "rev": 1, 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.8, 
+      "route": 0.25
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.2, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.2
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        55.587544, 
+        -46.07934
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Bulb\nRevision: 1\nDescription: Lightbulb with RGB LEDs and ambient light sensor\nLicense: CC BY 4.0\nDesigner: Matthew Petroff (https://mpetroff.net)"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      36.967204, 
+      38.640875
+    ]
+  }, 
+  "files": {
+    "routing-data": "bulb_routing.json", 
+    "routing-svg": "bulb.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font-family": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "type": "path", 
+      "value": "m 182.88076,135.74422 c -19.65791,2e-5 -35.5938,15.75452 -35.59386,35.18872 0.0111,6.46349 1.82281,12.79906 5.2362,18.31171 3.52076,6.42472 9.66679,16.52553 10.41736,21.23408 0.75196,4.71728 0.84452,8.14575 2.29047,10.21969 1.44595,2.07394 2.67025,5.15724 2.67025,5.15724 v 18.00915 c 0.0983,1.76774 0.0803,1.75043 1.22549,3.30129 l 7.50592,7.50593 c 0.96741,0.96896 1.01111,1.06928 1.88996,1.07219 h 8.71671 c 0.87885,-0.003 0.92226,-0.10323 1.88967,-1.07219 l 7.50592,-7.50593 c 1.14518,-1.55086 1.12719,-1.53355 1.22549,-3.30129 v -18.00915 c 0,0 1.2243,-3.0833 2.67025,-5.15724 1.44595,-2.07394 1.53852,-5.50242 2.29047,-10.21969 0.75058,-4.70855 6.89661,-14.80937 10.41737,-21.23408 3.41338,-5.51265 5.22504,-11.84822 5.23619,-18.31171 -6e-5,-19.43419 -15.93595,-35.1887 -35.59386,-35.18872 z"
+    }
+  }, 
+  "shapes": {
+    "back-labels": {
+      "footprint": "back-labels", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        0
+      ]
+    }, 
+    "base": {
+      "footprint": "mask-base", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -45
+      ]
+    }, 
+    "copper-base": {
+      "footprint": "copper-base", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -43.7
+      ]
+    }, 
+    "filament": {
+      "footprint": "filament", 
+      "layer": "top", 
+      "location": [
+        -0.25, 
+        0.5
+      ]
+    }, 
+    "outline-strip": {
+      "footprint": "outline-stripe", 
+      "layer": "top", 
+      "location": [
+        0, 
+        14.5
+      ]
+    }, 
+    "pour": {
+      "footprint": "pour", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        0
+      ]
+    }, 
+    "power-labels": {
+      "footprint": "power-labels", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        -32
+      ]
+    }, 
+    "reflection": {
+      "footprint": "reflection", 
+      "layer": "top", 
+      "location": [
+        -26, 
+        34
+      ]
+    }, 
+    "stripe1": {
+      "footprint": "base-stripe", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -33
+      ]
+    }, 
+    "stripe2": {
+      "footprint": "base-stripe", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -39
+      ]
+    }, 
+    "stripe3": {
+      "footprint": "base-stripe", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -45
+      ]
+    }
+  }, 
+  "stackup": {
+    "name": "two-layer"
+  }, 
+  "vias": {
+    "default-via": "via"
+  }
+}

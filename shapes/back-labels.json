@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "silkscreen": {
+      "shapes": [
+        {
+          "layers": [
+            "top"
+          ],
+          "font-family": "Overlock-Regular-OTF-webfont",
+          "font-size": "1.5mm",
+          "letter-spacing": "0mm",
+          "line-height": "1.5mm",
+          "type": "text",
+          "style": "fill",
+          "value": "Bulb, Rev. 1\n2017-10\nMatthew Petroff (https://mpetroff.net/)\nCC BY 4.0"
+        }
+      ]
+    }
+  }
+}

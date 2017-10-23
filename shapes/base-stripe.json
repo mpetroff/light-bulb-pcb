@@ -1,0 +1,14 @@
+{
+  "layout": {
+    "silkscreen": {
+      "shapes": [
+        {
+          "type": "path",
+          "style": "stroke",
+          "stroke-width": 4,
+          "value": "M 63.900349,232.30085 89.58576,228.12208"
+        }
+      ]
+    }
+  }
+}

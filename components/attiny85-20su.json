@@ -1,0 +1,110 @@
+{
+  "info": {
+    "description": "Microcontroller",
+    "manufacturer": "Microchip",
+    "part-number": "ATTINY85-20SU",
+    "suppliers": {
+      "digikey": "ATTINY85-20SU-ND"
+    }
+  },
+  "pins": {
+    "1": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -2.7,
+          1.905
+        ],
+        "label": "PB5"
+      }
+    },
+    "2": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -2.7,
+          0.635
+        ],
+        "label": "PB3"
+      }
+    },
+    "3": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -2.7,
+          -0.635
+        ],
+        "label": "PB4"
+      }
+    },
+    "4": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -2.7,
+          -1.905
+        ],
+        "label": "GND"
+      }
+    },
+    "5": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          2.7,
+          -1.905
+        ],
+        "label": "PB0"
+      }
+    },
+    "6": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          2.7,
+          -0.635
+        ],
+        "label": "PB1"
+      }
+    },
+    "7": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          2.7,
+          0.635
+        ],
+        "label": "PB2"
+      }
+    },
+    "8": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          2.7,
+          1.905
+        ],
+        "label": "VCC"
+      }
+    }
+  },
+  "pads": {
+    "pad": {
+      "shapes": [
+        {
+          "type": "rect",
+          "layers": [
+            "top"
+          ],
+          "width": 1.6,
+          "height": 0.6,
+          "offset": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}

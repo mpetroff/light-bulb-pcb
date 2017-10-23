@@ -1,0 +1,20 @@
+NeoPixel Mini 3535 (7x):
+https://www.digikey.com/products/en?keywords=1528-1542-ND
+
+ATtiny85 (1x):
+https://www.digikey.com/products/en?keywords=ATTINY85-20SU-ND
+
+350mAh lipo (1x):
+https://www.digikey.com/products/en?keywords=1528-1858-ND
+
+JST-PH 2-pin smt connector (1x):
+https://www.digikey.com/products/en?keywords=455-1749-1-ND
+
+Micro lipo charger (1x):
+https://www.digikey.com/products/en?keywords=1528-1833-ND
+
+TSL237T ambient light sensor (1x):
+https://www.digikey.com/products/en?keywords=TSL237-TCT-ND
+
+0.1uF 0603 cap (9x):
+https://www.digikey.com/products/en?keywords=1276-1258-1-ND

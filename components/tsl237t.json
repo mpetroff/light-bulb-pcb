@@ -1,0 +1,70 @@
+{
+  "info": {
+    "description": "Light-to-frequency converter",
+    "manufacturer": "ams",
+    "part-number": "TSL237T",
+    "suppliers": {
+      "digikey": "TSL237-TCT-ND"
+    }
+  },
+  "pins": {
+    "1": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -1.45,
+          0.75
+        ],
+        "label": "OE"
+      }
+    },
+    "2": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -1.45,
+          -0.75
+        ],
+        "label": "GND"
+      }
+    },
+    "3": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          1.45,
+          -0.75
+        ],
+        "label": "VDD"
+      }
+    },
+    "4": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          1.45,
+          0.75
+        ],
+        "label": "OUT"
+      }
+    }
+  },
+  "pads": {
+    "pad": {
+      "shapes": [
+        {
+          "type": "rect",
+          "layers": [
+            "top"
+          ],
+          "width": 0.9,
+          "height": 1,
+          "offset": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}

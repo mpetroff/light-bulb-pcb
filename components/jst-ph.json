@@ -1,0 +1,85 @@
+{
+  "info": {
+    "description": "2-pin JST PH connector",
+    "suppliers": {
+      "adafruit": "1769",
+      "digikey": "455-1749-1-ND"
+    }
+  },
+  "pins": {
+    "1": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          -1,
+          2.75
+        ],
+        "label": "VCC"
+      }
+    },
+    "2": {
+      "layout": {
+        "pad": "pad",
+        "location": [
+          1,
+          2.75
+        ],
+        "label": "GND"
+      }
+    },
+    "mech1": {
+      "layout": {
+        "pad": "mechpad",
+        "location": [
+          -3.35,
+          -2.8
+        ],
+        "show-label": false
+      }
+    },
+    "mech2": {
+      "layout": {
+        "pad": "mechpad",
+        "location": [
+          3.35,
+          -2.8
+        ],
+        "show-label": false
+      }
+    }
+  },
+  "pads": {
+    "pad": {
+      "shapes": [
+        {
+          "type": "rect",
+          "layers": [
+            "top"
+          ],
+          "width": 1,
+          "height": 3.5,
+          "offset": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "mechpad": {
+      "shapes": [
+        {
+          "type": "rect",
+          "layers": [
+            "top"
+          ],
+          "width": 1.5,
+          "height": 3.4,
+          "offset": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}
